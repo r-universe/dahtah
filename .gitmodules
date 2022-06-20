@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "imager"]
+	path = imager
+	url = https://github.com/dahtah/imager
+	shallow = true
+	registered = true
